@@ -19,7 +19,7 @@ Vous pouvez installer les dépendances requises à l'aide de `pip` :
 ```bash
 pip install requests 
 ```
-Configuration des API
+## Configuration des API
 Avant d'exécuter l'outil, remplacez les clés API suivantes dans le script :
 
 ```bash
@@ -35,7 +35,7 @@ Obtenez vos clés API en vous inscrivant sur les sites suivants :
 =>AbuseIPDB
 
 
-##Utilisation
+## Utilisation
 
 Pour exécuter l'outil, utilisez la commande suivante dans votre terminal :
 ```bash
@@ -43,7 +43,7 @@ python defensive_tool.py <hash> <email> <ip>
 ```
 
 
-##Contributions
+## Contributions
 
 Les contributions sont les bienvenues ! Veuillez soumettre un pull request ou ouvrir une issue pour discuter des améliorations.
 
