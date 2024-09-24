@@ -41,7 +41,7 @@ Obtenez vos clés API en vous inscrivant sur les sites suivants :
 
 Pour exécuter l'outil, utilisez la commande suivante dans votre terminal :
 ```bash
-python defensive_tool.py <hash> <email> <ip>
+python defensive_soc_tool.py <hash> <email> <ip>
 ```
 
 
