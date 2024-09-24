@@ -30,9 +30,11 @@ ABUSEIPDB_API_KEY = 'YOUR_ABUSEIPDB_API_KEY'
 
 Obtenez vos clés API en vous inscrivant sur les sites suivants :
 
-->VirusTotal
-->EmailRep
-->AbuseIPDB
+** VirusTotal
+
+** EmailRep
+
+** AbuseIPDB
 
 
 ## Utilisation
